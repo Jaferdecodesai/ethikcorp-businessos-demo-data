@@ -1,0 +1,20 @@
+# SAMPLE DATA for demo – not real Ethikcorp figures
+# All company names are fictional. Currency: AED.
+# revenue_recognized_ttm_aed sums to 9,600,000 and matches monthly-revenue-by-service-line.csv.
+client_id,client_name,sector,emirate,service_line,contract_value_aed,revenue_recognized_ttm_aed,status,contract_start,contract_end
+CL-001,Amber Dune Retail LLC,Retail & Ecommerce,Dubai,Business Transformation Consulting,1850000,1240000,Active,2025-06-01,2026-12-31
+CL-002,Northwind Family Holdings,Family Business,Sharjah,Business Transformation Consulting,2100000,1120000,Active,2025-09-15,2027-03-31
+CL-003,Oasis Loom Manufacturing,Manufacturing,Abu Dhabi,Business Transformation Consulting,1540000,712000,Active,2026-03-01,2027-02-28
+CL-004,Falconcroft Financial Services,Financial Services,Dubai,AI-Enabled Business Transformation,1620000,980000,Active,2025-07-01,2026-12-31
+CL-005,Red Dune Construction,Real Estate & Construction,Abu Dhabi,AI-Enabled Business Transformation,1100000,748000,Active,2025-11-01,2026-10-31
+CL-006,Harborfig Logistics PJSC,Logistics & Supply Chain,Dubai,AI Agents for Workflow Automation,1280000,860000,Active,2025-08-01,2026-11-30
+CL-007,Blue Mina Ecommerce,Retail & Ecommerce,Dubai,AI Agents for Workflow Automation,540000,484000,Active,2026-01-15,2026-12-15
+CL-008,Pearl Quay Hospitality Group,Hospitality & Tourism,Dubai,Corporate Training Programs,420000,420000,Completed,2025-11-01,2026-03-31
+CL-009,Desert Palm Healthcare Group,Healthcare,Abu Dhabi,Corporate Training Programs,680000,510000,Active,2026-02-01,2026-12-31
+CL-010,Lumenbay Consumer Goods,Retail & Consumer,Dubai,Corporate Training Programs,390000,390000,Completed,2026-04-01,2026-07-31
+CL-011,Starling Souk Retail,Retail & Ecommerce,Sharjah,Corporate Training Programs,216000,216000,Completed,2026-09-01,2026-10-15
+CL-012,Mirage Gate Real Estate,Real Estate,Dubai,Leadership Development & Culture Transformation,740000,740000,Completed,2025-10-01,2026-04-30
+CL-013,Wadi Noor Municipality,Government & Public Sector,Ras Al Khaimah,Leadership Development & Culture Transformation,960000,604000,Active,2026-01-01,2026-12-31
+CL-014,Silver Kite Insurance,Financial Services,Dubai,Gamification in Learning & Corporate Education,520000,360000,Active,2025-12-01,2026-11-30
+CL-015,Qasr Al Waha Hotels,Hospitality & Tourism,Abu Dhabi,Gamification in Learning & Corporate Education,216000,216000,Completed,2026-05-01,2026-08-31
+CL-016,Palmwharf Distribution,Logistics & Supply Chain,Dubai,Corporate Training Programs,280000,0,Signed – not started,2026-11-01,2027-02-28

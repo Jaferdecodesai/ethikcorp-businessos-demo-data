@@ -1,0 +1,26 @@
+# SAMPLE DATA for demo – not real Ethikcorp figures
+# Currency: AED. Closed Won deals in this file are TTM bookings (signed Nov 2025 – Oct 2026).
+# They match clients.csv contract values. Prior-period contracts still recognising revenue are not repeated as TTM wins.
+deal_id,client_name,sector,service_line,stage,value_aed,owner_role,department,opened_on,expected_or_actual_close,win_probability_pct,notes
+DL-001,Red Dune Construction,Real Estate & Construction,AI-Enabled Business Transformation,Closed Won,1100000,Head of Sales,Sales & BD,2025-08-12,2025-11-01,100,Signed; delivery ran through Oct 2026.
+DL-002,Pearl Quay Hospitality Group,Hospitality & Tourism,Corporate Training Programs,Closed Won,420000,Senior Business Developer,Sales & BD,2025-09-03,2025-11-01,100,Training programme completed Mar 2026.
+DL-003,Silver Kite Insurance,Financial Services,Gamification in Learning & Corporate Education,Closed Won,520000,Client Partner,Consulting Delivery,2025-09-20,2025-12-01,100,Gamified claims academy; still in delivery.
+DL-004,Wadi Noor Municipality,Government & Public Sector,Leadership Development & Culture Transformation,Closed Won,960000,Head of Sales,Sales & BD,2025-10-08,2026-01-01,100,Leadership cohort across municipal departments.
+DL-005,Blue Mina Ecommerce,Retail & Ecommerce,AI Agents for Workflow Automation,Closed Won,540000,Senior Business Developer,Sales & BD,2025-11-02,2026-01-15,100,WhatsApp and web AI agents for customer service.
+DL-006,Oasis Loom Manufacturing,Manufacturing,Business Transformation Consulting,Closed Won,1540000,Client Partner,Consulting Delivery,2025-11-18,2026-03-01,100,Family-owned manufacturer; process and operating-model redesign.
+DL-007,Desert Palm Healthcare Group,Healthcare,Corporate Training Programs,Closed Won,680000,Business Developer,Sales & BD,2025-12-04,2026-02-01,100,Clinical-leadership and service-quality training.
+DL-008,Lumenbay Consumer Goods,Retail & Consumer,Corporate Training Programs,Closed Won,390000,Business Developer,Sales & BD,2026-01-22,2026-04-01,100,Completed Jul 2026.
+DL-009,Qasr Al Waha Hotels,Hospitality & Tourism,Gamification in Learning & Corporate Education,Closed Won,216000,Senior Business Developer,Sales & BD,2026-03-10,2026-05-01,100,Gamified new-hire onboarding; completed Aug 2026.
+DL-010,Starling Souk Retail,Retail & Ecommerce,Corporate Training Programs,Closed Won,216000,Business Developer,Sales & BD,2026-07-14,2026-09-01,100,Short sales-floor training cycle; completed Oct 2026.
+DL-011,Palmwharf Distribution,Logistics & Supply Chain,Corporate Training Programs,Closed Won,280000,Senior Business Developer,Sales & BD,2026-08-20,2026-10-20,100,Signed late Oct 2026; delivery starts Nov 2026. No TTM revenue yet.
+DL-012,Cedar Orchard Family Office,Family Business,Business Transformation Consulting,Negotiation,1480000,Head of Sales,Sales & BD,2026-06-11,2026-11-30,65,Second-generation succession and operating-model redesign.
+DL-013,Tidehaven Maritime,Logistics & Supply Chain,AI Agents for Workflow Automation,Proposal,920000,Senior Business Developer,Sales & BD,2026-07-02,2026-11-15,45,Proposal for documentation and scheduling agents.
+DL-014,Lantern Bay Retail Group,Retail & Ecommerce,AI-Enabled Business Transformation,Proposal,1150000,Client Partner,Consulting Delivery,2026-07-28,2026-12-15,40,Store-operations intelligence and demand decisions.
+DL-015,Saffron Court Hotels,Hospitality & Tourism,Leadership Development & Culture Transformation,Discovery,640000,Business Developer,Sales & BD,2026-08-19,2026-12-20,30,BizScan complete; discovery workshops booked.
+DL-016,Alabaster Health Clinics,Healthcare,Corporate Training Programs,Discovery,360000,Business Developer,Sales & BD,2026-09-01,2026-12-10,25,TNA scoped for front-line service and compliance.
+DL-017,Inkstone Manufacturing,Manufacturing,Business Transformation Consulting,Qualification,1200000,Senior Business Developer,Sales & BD,2026-09-22,2027-01-31,15,Inbound after a BizScan; qualification in progress.
+DL-018,Horizon Petal Ecommerce,Retail & Ecommerce,AI Agents for Workflow Automation,Qualification,480000,Business Developer,Sales & BD,2026-10-06,2027-01-15,15,Lead-qualification and WhatsApp support agents.
+DL-019,Green Minaret Properties,Real Estate,Corporate Training Programs,Qualification,275000,Business Developer,Sales & BD,2026-10-18,2027-01-20,10,Sales academy enquiry from a mid-size broker.
+DL-020,Copper Wren Logistics,Logistics & Supply Chain,AI-Enabled Business Transformation,Closed Lost,780000,Senior Business Developer,Sales & BD,2026-02-03,2026-05-22,0,Lost on price to a regional systems integrator.
+DL-021,Marble Cypress Bank Training Unit,Financial Services,Corporate Training Programs,Closed Lost,450000,Business Developer,Sales & BD,2026-03-14,2026-06-30,0,Prospect chose an internal L&D build.
+DL-022,Dustflower Hospitality,Hospitality & Tourism,Leadership Development & Culture Transformation,Closed Lost,510000,Head of Sales,Sales & BD,2025-12-09,2026-03-18,0,Budget frozen after a leadership change.

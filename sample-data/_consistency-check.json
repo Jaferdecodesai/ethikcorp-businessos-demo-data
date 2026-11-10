@@ -1,0 +1,23 @@
+{
+  "label": "SAMPLE DATA for demo \u2013 not real Ethikcorp figures",
+  "period": "Nov 2025 \u2013 Oct 2026",
+  "currency": "AED",
+  "recognised_revenue_ttm": 9600000,
+  "revenue_by_service_line": {
+    "Business Transformation Consulting": 3072000,
+    "AI-Enabled Business Transformation": 1728000,
+    "AI Agents for Workflow Automation": 1344000,
+    "Corporate Training Programs": 1536000,
+    "Leadership Development & Culture Transformation": 1344000,
+    "Gamification in Learning & Corporate Education": 576000
+  },
+  "active_and_completed_contract_book": 14452000,
+  "ttm_bookings_closed_won": 6862000,
+  "open_pipeline_gross": 6505000,
+  "open_pipeline_weighted": 2397500,
+  "closed_lost_ttm": 1740000,
+  "headcount_total": 26,
+  "hours_available_oct_2026": 4160,
+  "hours_utilized_oct_2026": 3216,
+  "billable_hours_oct_2026": 1592
+}

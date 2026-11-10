@@ -1,0 +1,13 @@
+# SAMPLE DATA for demo – not real Ethikcorp figures
+# Snapshot month: Oct 2026. Available hours = headcount × 160 working hours.
+# Nine departments match the Ethikcorp BusinessOS department model.
+department,headcount,hours_available_oct_2026,hours_utilized_oct_2026,billable_hours_oct_2026,utilisation_pct,billable_utilisation_pct,notes
+Sales & BD,3,480,360,120,75.0,25.0,Most time is non-billable business development; 120 hours were billable on account expansion.
+Marketing,2,320,240,0,75.0,0.0,"Fully non-billable brand, content and campaign work."
+Consulting Delivery,6,960,816,768,85.0,80.0,Highest utilisation; most utilised hours are client-billable.
+Technology & AI,4,640,512,416,80.0,65.0,Mix of client AI-agent build work and internal platform time.
+Finance,2,320,224,0,70.0,0.0,"Invoicing, collections and management reporting; no billable work."
+HR & Talent,2,320,208,0,65.0,0.0,"Recruitment, visas, credentials and people operations."
+Operations,3,480,360,48,75.0,10.0,"Scheduling, venues and logistics; a small slice of billed programme coordination."
+Client Success,3,480,384,240,80.0,50.0,30/60/90-day evaluations and account reviews; part billable.
+Legal & Compliance,1,160,112,0,70.0,0.0,"Contracts, licence tracking and compliance reviews."

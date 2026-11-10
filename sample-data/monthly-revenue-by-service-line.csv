@@ -1,0 +1,76 @@
+# SAMPLE DATA for demo – not real Ethikcorp figures
+# Period: Nov 2025 – Oct 2026 (trailing 12 months). Currency: AED.
+# Totals are internally consistent with sample-data/clients.csv (recognised revenue).
+month,month_label,service_line,revenue_aed
+2025-11,Nov 2025,Business Transformation Consulting,229000
+2025-11,Nov 2025,AI-Enabled Business Transformation,118000
+2025-11,Nov 2025,AI Agents for Workflow Automation,81000
+2025-11,Nov 2025,Corporate Training Programs,136000
+2025-11,Nov 2025,Leadership Development & Culture Transformation,100000
+2025-11,Nov 2025,Gamification in Learning & Corporate Education,36000
+2025-12,Dec 2025,Business Transformation Consulting,236000
+2025-12,Dec 2025,AI-Enabled Business Transformation,120000
+2025-12,Dec 2025,AI Agents for Workflow Automation,85000
+2025-12,Dec 2025,Corporate Training Programs,128000
+2025-12,Dec 2025,Leadership Development & Culture Transformation,106000
+2025-12,Dec 2025,Gamification in Learning & Corporate Education,75000
+2026-01,Jan 2026,Business Transformation Consulting,250000
+2026-01,Jan 2026,AI-Enabled Business Transformation,132000
+2026-01,Jan 2026,AI Agents for Workflow Automation,98000
+2026-01,Jan 2026,Corporate Training Programs,123000
+2026-01,Jan 2026,Leadership Development & Culture Transformation,113000
+2026-01,Jan 2026,Gamification in Learning & Corporate Education,44000
+2026-02,Feb 2026,Business Transformation Consulting,251000
+2026-02,Feb 2026,AI-Enabled Business Transformation,135000
+2026-02,Feb 2026,AI Agents for Workflow Automation,99000
+2026-02,Feb 2026,Corporate Training Programs,99000
+2026-02,Feb 2026,Leadership Development & Culture Transformation,99000
+2026-02,Feb 2026,Gamification in Learning & Corporate Education,37000
+2026-03,Mar 2026,Business Transformation Consulting,246000
+2026-03,Mar 2026,AI-Enabled Business Transformation,134000
+2026-03,Mar 2026,AI Agents for Workflow Automation,98000
+2026-03,Mar 2026,Corporate Training Programs,97000
+2026-03,Mar 2026,Leadership Development & Culture Transformation,97000
+2026-03,Mar 2026,Gamification in Learning & Corporate Education,28000
+2026-04,Apr 2026,Business Transformation Consulting,256000
+2026-04,Apr 2026,AI-Enabled Business Transformation,146000
+2026-04,Apr 2026,AI Agents for Workflow Automation,111000
+2026-04,Apr 2026,Corporate Training Programs,137000
+2026-04,Apr 2026,Leadership Development & Culture Transformation,116000
+2026-04,Apr 2026,Gamification in Learning & Corporate Education,34000
+2026-05,May 2026,Business Transformation Consulting,265000
+2026-05,May 2026,AI-Enabled Business Transformation,151000
+2026-05,May 2026,AI Agents for Workflow Automation,122000
+2026-05,May 2026,Corporate Training Programs,142000
+2026-05,May 2026,Leadership Development & Culture Transformation,118000
+2026-05,May 2026,Gamification in Learning & Corporate Education,42000
+2026-06,Jun 2026,Business Transformation Consulting,271000
+2026-06,Jun 2026,AI-Enabled Business Transformation,158000
+2026-06,Jun 2026,AI Agents for Workflow Automation,127000
+2026-06,Jun 2026,Corporate Training Programs,133000
+2026-06,Jun 2026,Leadership Development & Culture Transformation,120000
+2026-06,Jun 2026,Gamification in Learning & Corporate Education,51000
+2026-07,Jul 2026,Business Transformation Consulting,261000
+2026-07,Jul 2026,AI-Enabled Business Transformation,153000
+2026-07,Jul 2026,AI Agents for Workflow Automation,119000
+2026-07,Jul 2026,Corporate Training Programs,107000
+2026-07,Jul 2026,Leadership Development & Culture Transformation,105000
+2026-07,Jul 2026,Gamification in Learning & Corporate Education,35000
+2026-08,Aug 2026,Business Transformation Consulting,257000
+2026-08,Aug 2026,AI-Enabled Business Transformation,147000
+2026-08,Aug 2026,AI Agents for Workflow Automation,114000
+2026-08,Aug 2026,Corporate Training Programs,104000
+2026-08,Aug 2026,Leadership Development & Culture Transformation,103000
+2026-08,Aug 2026,Gamification in Learning & Corporate Education,35000
+2026-09,Sep 2026,Business Transformation Consulting,262000
+2026-09,Sep 2026,AI-Enabled Business Transformation,157000
+2026-09,Sep 2026,AI Agents for Workflow Automation,137000
+2026-09,Sep 2026,Corporate Training Programs,155000
+2026-09,Sep 2026,Leadership Development & Culture Transformation,124000
+2026-09,Sep 2026,Gamification in Learning & Corporate Education,65000
+2026-10,Oct 2026,Business Transformation Consulting,288000
+2026-10,Oct 2026,AI-Enabled Business Transformation,177000
+2026-10,Oct 2026,AI Agents for Workflow Automation,153000
+2026-10,Oct 2026,Corporate Training Programs,175000
+2026-10,Oct 2026,Leadership Development & Culture Transformation,143000
+2026-10,Oct 2026,Gamification in Learning & Corporate Education,94000
