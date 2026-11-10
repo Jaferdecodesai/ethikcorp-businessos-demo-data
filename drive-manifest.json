@@ -1,0 +1,483 @@
+{
+  "title": "Ethikcorp BusinessOS Demo Data",
+  "github_repo_url": "https://github.com/Jaferdecodesai/ethikcorp-businessos-demo-data",
+  "github_raw_base": "https://raw.githubusercontent.com/Jaferdecodesai/ethikcorp-businessos-demo-data/main/",
+  "drive_folder_name": "Ethikcorp BusinessOS Demo Data",
+  "drive_folder_id": "1sjU5DFEFRSwi1WcJFDz9tPRFwPHouut4",
+  "drive_folder_url": "https://drive.google.com/drive/folders/1sjU5DFEFRSwi1WcJFDz9tPRFwPHouut4",
+  "sharing": {
+    "intended": "anyone with the link can view, so the portal can fetch without OAuth",
+    "status": "not_granted",
+    "reason": "The Google Drive connector share_file tool only grants access to a named user, group, or domain. Anyone-with-the-link sharing is not offered by the tool. The folder remains private to the Drive owner until it is shared in the Google Drive UI (Share \u2192 General access \u2192 Anyone with the link \u2192 Viewer).",
+    "unauthenticated_download": "expected_to_fail_until_link_sharing_is_enabled"
+  },
+  "folders": [
+    {
+      "path": "",
+      "name": "Ethikcorp BusinessOS Demo Data",
+      "id": "1sjU5DFEFRSwi1WcJFDz9tPRFwPHouut4",
+      "kind": "folder",
+      "web_view_url": "https://drive.google.com/drive/folders/1sjU5DFEFRSwi1WcJFDz9tPRFwPHouut4"
+    },
+    {
+      "path": "public-kb",
+      "name": "public-kb",
+      "id": "1fbCVrIOLMhNsE3OXHsjRWPAocSuPWd2u",
+      "kind": "folder",
+      "web_view_url": "https://drive.google.com/drive/folders/1fbCVrIOLMhNsE3OXHsjRWPAocSuPWd2u"
+    },
+    {
+      "path": "public-kb/pages",
+      "name": "pages",
+      "id": "16sKGhxOEIXZ2xCcdyhxbjIMvKxddmVNU",
+      "kind": "folder",
+      "web_view_url": "https://drive.google.com/drive/folders/16sKGhxOEIXZ2xCcdyhxbjIMvKxddmVNU"
+    },
+    {
+      "path": "sample-data",
+      "name": "sample-data",
+      "id": "1iaJGvh6xZ_cP4xf907zDUB_l_gXAAlIr",
+      "kind": "folder",
+      "web_view_url": "https://drive.google.com/drive/folders/1iaJGvh6xZ_cP4xf907zDUB_l_gXAAlIr"
+    },
+    {
+      "path": "workflows",
+      "name": "workflows",
+      "id": "1SUkeNAxI-JA3JP_hSAN25b4siVgBqBtn",
+      "kind": "folder",
+      "web_view_url": "https://drive.google.com/drive/folders/1SUkeNAxI-JA3JP_hSAN25b4siVgBqBtn"
+    }
+  ],
+  "files": [
+    {
+      "path": "README.md",
+      "name": "README.md",
+      "drive_id": "1Pu5yXiqnSJ8fr-p2K-4l9tobG9tHQVtc",
+      "origin": "real_and_sample_explained",
+      "category": "documentation",
+      "web_view_url": "https://drive.google.com/file/d/1Pu5yXiqnSJ8fr-p2K-4l9tobG9tHQVtc/view",
+      "download_url": "https://drive.google.com/uc?export=download&id=1Pu5yXiqnSJ8fr-p2K-4l9tobG9tHQVtc",
+      "github_raw_url": "https://raw.githubusercontent.com/Jaferdecodesai/ethikcorp-businessos-demo-data/main/README.md"
+    },
+    {
+      "path": "drive-manifest.json",
+      "name": "drive-manifest.json",
+      "drive_id": "1oVUZKbfPRrxfVuQh8HUpiQOBI9ZqbhpS",
+      "origin": "manifest",
+      "category": "documentation",
+      "web_view_url": "https://drive.google.com/file/d/1oVUZKbfPRrxfVuQh8HUpiQOBI9ZqbhpS/view",
+      "download_url": "https://drive.google.com/uc?export=download&id=1oVUZKbfPRrxfVuQh8HUpiQOBI9ZqbhpS",
+      "github_raw_url": "https://raw.githubusercontent.com/Jaferdecodesai/ethikcorp-businessos-demo-data/main/drive-manifest.json"
+    },
+    {
+      "path": "public-kb/ethikcorp-kb.md",
+      "name": "ethikcorp-kb.md",
+      "drive_id": "1KxQpjg7GmwQ_iPBUC_E-RO613p2IeZqy",
+      "origin": "real",
+      "category": "public-kb",
+      "web_view_url": "https://drive.google.com/file/d/1KxQpjg7GmwQ_iPBUC_E-RO613p2IeZqy/view",
+      "download_url": "https://drive.google.com/uc?export=download&id=1KxQpjg7GmwQ_iPBUC_E-RO613p2IeZqy",
+      "github_raw_url": "https://raw.githubusercontent.com/Jaferdecodesai/ethikcorp-businessos-demo-data/main/public-kb/ethikcorp-kb.md"
+    },
+    {
+      "path": "public-kb/index.json",
+      "name": "index.json",
+      "drive_id": "12zU5VYrYCpBscnzKjr9zWKBxJPyYj8HG",
+      "origin": "real",
+      "category": "public-kb",
+      "web_view_url": "https://drive.google.com/file/d/12zU5VYrYCpBscnzKjr9zWKBxJPyYj8HG/view",
+      "download_url": "https://drive.google.com/uc?export=download&id=12zU5VYrYCpBscnzKjr9zWKBxJPyYj8HG",
+      "github_raw_url": "https://raw.githubusercontent.com/Jaferdecodesai/ethikcorp-businessos-demo-data/main/public-kb/index.json"
+    },
+    {
+      "path": "sample-data/monthly-revenue-by-service-line.csv",
+      "name": "monthly-revenue-by-service-line.csv",
+      "drive_id": "1jiCGoJaufF3T_9_c-8Z-1vdNffnYCMMW",
+      "origin": "sample",
+      "category": "sample-data",
+      "web_view_url": "https://drive.google.com/file/d/1jiCGoJaufF3T_9_c-8Z-1vdNffnYCMMW/view",
+      "download_url": "https://drive.google.com/uc?export=download&id=1jiCGoJaufF3T_9_c-8Z-1vdNffnYCMMW",
+      "github_raw_url": "https://raw.githubusercontent.com/Jaferdecodesai/ethikcorp-businessos-demo-data/main/sample-data/monthly-revenue-by-service-line.csv"
+    },
+    {
+      "path": "sample-data/clients.csv",
+      "name": "clients.csv",
+      "drive_id": "1jByRbcuT-5GyLJr1p8qvWwrWjNL2Qn4y",
+      "origin": "sample",
+      "category": "sample-data",
+      "web_view_url": "https://drive.google.com/file/d/1jByRbcuT-5GyLJr1p8qvWwrWjNL2Qn4y/view",
+      "download_url": "https://drive.google.com/uc?export=download&id=1jByRbcuT-5GyLJr1p8qvWwrWjNL2Qn4y",
+      "github_raw_url": "https://raw.githubusercontent.com/Jaferdecodesai/ethikcorp-businessos-demo-data/main/sample-data/clients.csv"
+    },
+    {
+      "path": "sample-data/sales-pipeline.csv",
+      "name": "sales-pipeline.csv",
+      "drive_id": "1gui7bSNA2ihkHlhsVBWZLpqMmBHIxWqn",
+      "origin": "sample",
+      "category": "sample-data",
+      "web_view_url": "https://drive.google.com/file/d/1gui7bSNA2ihkHlhsVBWZLpqMmBHIxWqn/view",
+      "download_url": "https://drive.google.com/uc?export=download&id=1gui7bSNA2ihkHlhsVBWZLpqMmBHIxWqn",
+      "github_raw_url": "https://raw.githubusercontent.com/Jaferdecodesai/ethikcorp-businessos-demo-data/main/sample-data/sales-pipeline.csv"
+    },
+    {
+      "path": "sample-data/department-headcount-and-hours.csv",
+      "name": "department-headcount-and-hours.csv",
+      "drive_id": "1T4_xeI5E6n42XocPe6QpZWMp92yVpW81",
+      "origin": "sample",
+      "category": "sample-data",
+      "web_view_url": "https://drive.google.com/file/d/1T4_xeI5E6n42XocPe6QpZWMp92yVpW81/view",
+      "download_url": "https://drive.google.com/uc?export=download&id=1T4_xeI5E6n42XocPe6QpZWMp92yVpW81",
+      "github_raw_url": "https://raw.githubusercontent.com/Jaferdecodesai/ethikcorp-businessos-demo-data/main/sample-data/department-headcount-and-hours.csv"
+    },
+    {
+      "path": "sample-data/_consistency-check.json",
+      "name": "_consistency-check.json",
+      "drive_id": "1instk6CiX9bEf9k3OldeYsLOhn5LsDu5",
+      "origin": "sample",
+      "category": "sample-data",
+      "web_view_url": "https://drive.google.com/file/d/1instk6CiX9bEf9k3OldeYsLOhn5LsDu5/view",
+      "download_url": "https://drive.google.com/uc?export=download&id=1instk6CiX9bEf9k3OldeYsLOhn5LsDu5",
+      "github_raw_url": "https://raw.githubusercontent.com/Jaferdecodesai/ethikcorp-businessos-demo-data/main/sample-data/_consistency-check.json"
+    },
+    {
+      "path": "workflows/sales-and-bd.md",
+      "name": "sales-and-bd.md",
+      "drive_id": "1bKiDzoeXtBYStFgzajSGUmiLvlXCnz9U",
+      "origin": "sample",
+      "category": "workflows",
+      "web_view_url": "https://drive.google.com/file/d/1bKiDzoeXtBYStFgzajSGUmiLvlXCnz9U/view",
+      "download_url": "https://drive.google.com/uc?export=download&id=1bKiDzoeXtBYStFgzajSGUmiLvlXCnz9U",
+      "github_raw_url": "https://raw.githubusercontent.com/Jaferdecodesai/ethikcorp-businessos-demo-data/main/workflows/sales-and-bd.md"
+    },
+    {
+      "path": "workflows/marketing.md",
+      "name": "marketing.md",
+      "drive_id": "1J6qkJjFkMQmC2LUypUSbbPLsnlj1gHUk",
+      "origin": "sample",
+      "category": "workflows",
+      "web_view_url": "https://drive.google.com/file/d/1J6qkJjFkMQmC2LUypUSbbPLsnlj1gHUk/view",
+      "download_url": "https://drive.google.com/uc?export=download&id=1J6qkJjFkMQmC2LUypUSbbPLsnlj1gHUk",
+      "github_raw_url": "https://raw.githubusercontent.com/Jaferdecodesai/ethikcorp-businessos-demo-data/main/workflows/marketing.md"
+    },
+    {
+      "path": "workflows/consulting-delivery.md",
+      "name": "consulting-delivery.md",
+      "drive_id": "1n7uet1Rv7xBPKJWmYZZn8r4GHszA4q54",
+      "origin": "sample",
+      "category": "workflows",
+      "web_view_url": "https://drive.google.com/file/d/1n7uet1Rv7xBPKJWmYZZn8r4GHszA4q54/view",
+      "download_url": "https://drive.google.com/uc?export=download&id=1n7uet1Rv7xBPKJWmYZZn8r4GHszA4q54",
+      "github_raw_url": "https://raw.githubusercontent.com/Jaferdecodesai/ethikcorp-businessos-demo-data/main/workflows/consulting-delivery.md"
+    },
+    {
+      "path": "workflows/technology-and-ai.md",
+      "name": "technology-and-ai.md",
+      "drive_id": "1TqiVAULPaah-limFRr67MmN5rYitaxJM",
+      "origin": "sample",
+      "category": "workflows",
+      "web_view_url": "https://drive.google.com/file/d/1TqiVAULPaah-limFRr67MmN5rYitaxJM/view",
+      "download_url": "https://drive.google.com/uc?export=download&id=1TqiVAULPaah-limFRr67MmN5rYitaxJM",
+      "github_raw_url": "https://raw.githubusercontent.com/Jaferdecodesai/ethikcorp-businessos-demo-data/main/workflows/technology-and-ai.md"
+    },
+    {
+      "path": "workflows/finance.md",
+      "name": "finance.md",
+      "drive_id": "1ACvTdOTIaQauYRkAv6hKTdmP7kqyOBng",
+      "origin": "sample",
+      "category": "workflows",
+      "web_view_url": "https://drive.google.com/file/d/1ACvTdOTIaQauYRkAv6hKTdmP7kqyOBng/view",
+      "download_url": "https://drive.google.com/uc?export=download&id=1ACvTdOTIaQauYRkAv6hKTdmP7kqyOBng",
+      "github_raw_url": "https://raw.githubusercontent.com/Jaferdecodesai/ethikcorp-businessos-demo-data/main/workflows/finance.md"
+    },
+    {
+      "path": "workflows/hr-and-talent.md",
+      "name": "hr-and-talent.md",
+      "drive_id": "1jwgPcn60jkxLUvAv1zAzhjveXMVadyqd",
+      "origin": "sample",
+      "category": "workflows",
+      "web_view_url": "https://drive.google.com/file/d/1jwgPcn60jkxLUvAv1zAzhjveXMVadyqd/view",
+      "download_url": "https://drive.google.com/uc?export=download&id=1jwgPcn60jkxLUvAv1zAzhjveXMVadyqd",
+      "github_raw_url": "https://raw.githubusercontent.com/Jaferdecodesai/ethikcorp-businessos-demo-data/main/workflows/hr-and-talent.md"
+    },
+    {
+      "path": "workflows/operations.md",
+      "name": "operations.md",
+      "drive_id": "1DEXVfOQv-xys5S6gQ2oCWNEFroT5hZCw",
+      "origin": "sample",
+      "category": "workflows",
+      "web_view_url": "https://drive.google.com/file/d/1DEXVfOQv-xys5S6gQ2oCWNEFroT5hZCw/view",
+      "download_url": "https://drive.google.com/uc?export=download&id=1DEXVfOQv-xys5S6gQ2oCWNEFroT5hZCw",
+      "github_raw_url": "https://raw.githubusercontent.com/Jaferdecodesai/ethikcorp-businessos-demo-data/main/workflows/operations.md"
+    },
+    {
+      "path": "workflows/client-success.md",
+      "name": "client-success.md",
+      "drive_id": "1xXkr4jKF-trDQ-DbxNODpF5V3OfvD7Oz",
+      "origin": "sample",
+      "category": "workflows",
+      "web_view_url": "https://drive.google.com/file/d/1xXkr4jKF-trDQ-DbxNODpF5V3OfvD7Oz/view",
+      "download_url": "https://drive.google.com/uc?export=download&id=1xXkr4jKF-trDQ-DbxNODpF5V3OfvD7Oz",
+      "github_raw_url": "https://raw.githubusercontent.com/Jaferdecodesai/ethikcorp-businessos-demo-data/main/workflows/client-success.md"
+    },
+    {
+      "path": "workflows/legal-and-compliance.md",
+      "name": "legal-and-compliance.md",
+      "drive_id": "1VjZ02rEoeSxfWaM_8VjJBDn5OuNrGz6M",
+      "origin": "sample",
+      "category": "workflows",
+      "web_view_url": "https://drive.google.com/file/d/1VjZ02rEoeSxfWaM_8VjJBDn5OuNrGz6M/view",
+      "download_url": "https://drive.google.com/uc?export=download&id=1VjZ02rEoeSxfWaM_8VjJBDn5OuNrGz6M",
+      "github_raw_url": "https://raw.githubusercontent.com/Jaferdecodesai/ethikcorp-businessos-demo-data/main/workflows/legal-and-compliance.md"
+    },
+    {
+      "path": "public-kb/pages/about-us.md",
+      "name": "about-us.md",
+      "drive_id": "1iW7yZInJAxww2Gp38bkmu4moTjRUO71o",
+      "origin": "real",
+      "category": "public-kb",
+      "web_view_url": "https://drive.google.com/file/d/1iW7yZInJAxww2Gp38bkmu4moTjRUO71o/view",
+      "download_url": "https://drive.google.com/uc?export=download&id=1iW7yZInJAxww2Gp38bkmu4moTjRUO71o",
+      "github_raw_url": "https://raw.githubusercontent.com/Jaferdecodesai/ethikcorp-businessos-demo-data/main/public-kb/pages/about-us.md"
+    },
+    {
+      "path": "public-kb/pages/ai-intelligent-automation.md",
+      "name": "ai-intelligent-automation.md",
+      "drive_id": "1ev0SfOcx2hSJarqwe1sPQnZy7nKdsUcL",
+      "origin": "real",
+      "category": "public-kb",
+      "web_view_url": "https://drive.google.com/file/d/1ev0SfOcx2hSJarqwe1sPQnZy7nKdsUcL/view",
+      "download_url": "https://drive.google.com/uc?export=download&id=1ev0SfOcx2hSJarqwe1sPQnZy7nKdsUcL",
+      "github_raw_url": "https://raw.githubusercontent.com/Jaferdecodesai/ethikcorp-businessos-demo-data/main/public-kb/pages/ai-intelligent-automation.md"
+    },
+    {
+      "path": "public-kb/pages/automation-vs-human-intelligence-finding-the-right-balance-in-business.md",
+      "name": "automation-vs-human-intelligence-finding-the-right-balance-in-business.md",
+      "drive_id": "19gqeNX3QapM1SHdE4qVDHqsJatig7OFV",
+      "origin": "real",
+      "category": "public-kb",
+      "web_view_url": "https://drive.google.com/file/d/19gqeNX3QapM1SHdE4qVDHqsJatig7OFV/view",
+      "download_url": "https://drive.google.com/uc?export=download&id=19gqeNX3QapM1SHdE4qVDHqsJatig7OFV",
+      "github_raw_url": "https://raw.githubusercontent.com/Jaferdecodesai/ethikcorp-businessos-demo-data/main/public-kb/pages/automation-vs-human-intelligence-finding-the-right-balance-in-business.md"
+    },
+    {
+      "path": "public-kb/pages/bizscan-rapid-business-pressure-scan.md",
+      "name": "bizscan-rapid-business-pressure-scan.md",
+      "drive_id": "1oP-J-hxtqXpJs2UhXQejWUOGNqJPoJPG",
+      "origin": "real",
+      "category": "public-kb",
+      "web_view_url": "https://drive.google.com/file/d/1oP-J-hxtqXpJs2UhXQejWUOGNqJPoJPG/view",
+      "download_url": "https://drive.google.com/uc?export=download&id=1oP-J-hxtqXpJs2UhXQejWUOGNqJPoJPG",
+      "github_raw_url": "https://raw.githubusercontent.com/Jaferdecodesai/ethikcorp-businessos-demo-data/main/public-kb/pages/bizscan-rapid-business-pressure-scan.md"
+    },
+    {
+      "path": "public-kb/pages/blog.md",
+      "name": "blog.md",
+      "drive_id": "1MQyiZafHnD6jeOR4mB-a-nI4Yw-aQXCX",
+      "origin": "real",
+      "category": "public-kb",
+      "web_view_url": "https://drive.google.com/file/d/1MQyiZafHnD6jeOR4mB-a-nI4Yw-aQXCX/view",
+      "download_url": "https://drive.google.com/uc?export=download&id=1MQyiZafHnD6jeOR4mB-a-nI4Yw-aQXCX",
+      "github_raw_url": "https://raw.githubusercontent.com/Jaferdecodesai/ethikcorp-businessos-demo-data/main/public-kb/pages/blog.md"
+    },
+    {
+      "path": "public-kb/pages/business-process-reengineering-guide.md",
+      "name": "business-process-reengineering-guide.md",
+      "drive_id": "1Oz3MOIFpGoR3joCWSPPr9ZZ9hLIipuHG",
+      "origin": "real",
+      "category": "public-kb",
+      "web_view_url": "https://drive.google.com/file/d/1Oz3MOIFpGoR3joCWSPPr9ZZ9hLIipuHG/view",
+      "download_url": "https://drive.google.com/uc?export=download&id=1Oz3MOIFpGoR3joCWSPPr9ZZ9hLIipuHG",
+      "github_raw_url": "https://raw.githubusercontent.com/Jaferdecodesai/ethikcorp-businessos-demo-data/main/public-kb/pages/business-process-reengineering-guide.md"
+    },
+    {
+      "path": "public-kb/pages/business-transformation-agency.md",
+      "name": "business-transformation-agency.md",
+      "drive_id": "1b9K7fI8VA_aD0FDVVlxBLnuNt_ogdGRP",
+      "origin": "real",
+      "category": "public-kb",
+      "web_view_url": "https://drive.google.com/file/d/1b9K7fI8VA_aD0FDVVlxBLnuNt_ogdGRP/view",
+      "download_url": "https://drive.google.com/uc?export=download&id=1b9K7fI8VA_aD0FDVVlxBLnuNt_ogdGRP",
+      "github_raw_url": "https://raw.githubusercontent.com/Jaferdecodesai/ethikcorp-businessos-demo-data/main/public-kb/pages/business-transformation-agency.md"
+    },
+    {
+      "path": "public-kb/pages/case-study-a-real-world-example-of-business-transformation-success.md",
+      "name": "case-study-a-real-world-example-of-business-transformation-success.md",
+      "drive_id": "1mKR5xI5GiX1ZtpCBOhQHzTBt_SPnhMJm",
+      "origin": "real",
+      "category": "public-kb",
+      "web_view_url": "https://drive.google.com/file/d/1mKR5xI5GiX1ZtpCBOhQHzTBt_SPnhMJm/view",
+      "download_url": "https://drive.google.com/uc?export=download&id=1mKR5xI5GiX1ZtpCBOhQHzTBt_SPnhMJm",
+      "github_raw_url": "https://raw.githubusercontent.com/Jaferdecodesai/ethikcorp-businessos-demo-data/main/public-kb/pages/case-study-a-real-world-example-of-business-transformation-success.md"
+    },
+    {
+      "path": "public-kb/pages/corporate-training-solutions.md",
+      "name": "corporate-training-solutions.md",
+      "drive_id": "1XkmeXZYz50yuZPqxQK5X1ofjfZRW4nQL",
+      "origin": "real",
+      "category": "public-kb",
+      "web_view_url": "https://drive.google.com/file/d/1XkmeXZYz50yuZPqxQK5X1ofjfZRW4nQL/view",
+      "download_url": "https://drive.google.com/uc?export=download&id=1XkmeXZYz50yuZPqxQK5X1ofjfZRW4nQL",
+      "github_raw_url": "https://raw.githubusercontent.com/Jaferdecodesai/ethikcorp-businessos-demo-data/main/public-kb/pages/corporate-training-solutions.md"
+    },
+    {
+      "path": "public-kb/pages/digital-transformation-vs-business-transformation.md",
+      "name": "digital-transformation-vs-business-transformation.md",
+      "drive_id": "1U6hxiH16c6NBXcoAGDbEvWkRFGStPgj1",
+      "origin": "real",
+      "category": "public-kb",
+      "web_view_url": "https://drive.google.com/file/d/1U6hxiH16c6NBXcoAGDbEvWkRFGStPgj1/view",
+      "download_url": "https://drive.google.com/uc?export=download&id=1U6hxiH16c6NBXcoAGDbEvWkRFGStPgj1",
+      "github_raw_url": "https://raw.githubusercontent.com/Jaferdecodesai/ethikcorp-businessos-demo-data/main/public-kb/pages/digital-transformation-vs-business-transformation.md"
+    },
+    {
+      "path": "public-kb/pages/games-revolution.md",
+      "name": "games-revolution.md",
+      "drive_id": "1TFSFyjeex5KIcpP9XjlZNMBgetCzz_BW",
+      "origin": "real",
+      "category": "public-kb",
+      "web_view_url": "https://drive.google.com/file/d/1TFSFyjeex5KIcpP9XjlZNMBgetCzz_BW/view",
+      "download_url": "https://drive.google.com/uc?export=download&id=1TFSFyjeex5KIcpP9XjlZNMBgetCzz_BW",
+      "github_raw_url": "https://raw.githubusercontent.com/Jaferdecodesai/ethikcorp-businessos-demo-data/main/public-kb/pages/games-revolution.md"
+    },
+    {
+      "path": "public-kb/pages/home.md",
+      "name": "home.md",
+      "drive_id": "1hhci4Vcm_6QgUi5KO5Af-BxNz1I3aojT",
+      "origin": "real",
+      "category": "public-kb",
+      "web_view_url": "https://drive.google.com/file/d/1hhci4Vcm_6QgUi5KO5Af-BxNz1I3aojT/view",
+      "download_url": "https://drive.google.com/uc?export=download&id=1hhci4Vcm_6QgUi5KO5Af-BxNz1I3aojT",
+      "github_raw_url": "https://raw.githubusercontent.com/Jaferdecodesai/ethikcorp-businessos-demo-data/main/public-kb/pages/home.md"
+    },
+    {
+      "path": "public-kb/pages/how-process-optimization-increases-profitability.md",
+      "name": "how-process-optimization-increases-profitability.md",
+      "drive_id": "11pkdZWhxz5BrIXDqyAzYEIwN9gizpcXk",
+      "origin": "real",
+      "category": "public-kb",
+      "web_view_url": "https://drive.google.com/file/d/11pkdZWhxz5BrIXDqyAzYEIwN9gizpcXk/view",
+      "download_url": "https://drive.google.com/uc?export=download&id=11pkdZWhxz5BrIXDqyAzYEIwN9gizpcXk",
+      "github_raw_url": "https://raw.githubusercontent.com/Jaferdecodesai/ethikcorp-businessos-demo-data/main/public-kb/pages/how-process-optimization-increases-profitability.md"
+    },
+    {
+      "path": "public-kb/pages/how-to-align-your-business-strategy-with-market-trends-for-long-term-growth.md",
+      "name": "how-to-align-your-business-strategy-with-market-trends-for-long-term-growth.md",
+      "drive_id": "17zZrNdi0UJoPNlukev9yXNhMUJkiXkiw",
+      "origin": "real",
+      "category": "public-kb",
+      "web_view_url": "https://drive.google.com/file/d/17zZrNdi0UJoPNlukev9yXNhMUJkiXkiw/view",
+      "download_url": "https://drive.google.com/uc?export=download&id=17zZrNdi0UJoPNlukev9yXNhMUJkiXkiw",
+      "github_raw_url": "https://raw.githubusercontent.com/Jaferdecodesai/ethikcorp-businessos-demo-data/main/public-kb/pages/how-to-align-your-business-strategy-with-market-trends-for-long-term-growth.md"
+    },
+    {
+      "path": "public-kb/pages/how-to-measure-training-roi-a-practical-guide-for-hr-leaders-in-the-uae.md",
+      "name": "how-to-measure-training-roi-a-practical-guide-for-hr-leaders-in-the-uae.md",
+      "drive_id": "1J7gWcgBbfYecOvIJ8Rfxa7NTvIuWRv0d",
+      "origin": "real",
+      "category": "public-kb",
+      "web_view_url": "https://drive.google.com/file/d/1J7gWcgBbfYecOvIJ8Rfxa7NTvIuWRv0d/view",
+      "download_url": "https://drive.google.com/uc?export=download&id=1J7gWcgBbfYecOvIJ8Rfxa7NTvIuWRv0d",
+      "github_raw_url": "https://raw.githubusercontent.com/Jaferdecodesai/ethikcorp-businessos-demo-data/main/public-kb/pages/how-to-measure-training-roi-a-practical-guide-for-hr-leaders-in-the-uae.md"
+    },
+    {
+      "path": "public-kb/pages/operational-excellence-for-smes.md",
+      "name": "operational-excellence-for-smes.md",
+      "drive_id": "1mOzrWQho_X-M3ECt-QNWRYDeIxqFQuFZ",
+      "origin": "real",
+      "category": "public-kb",
+      "web_view_url": "https://drive.google.com/file/d/1mOzrWQho_X-M3ECt-QNWRYDeIxqFQuFZ/view",
+      "download_url": "https://drive.google.com/uc?export=download&id=1mOzrWQho_X-M3ECt-QNWRYDeIxqFQuFZ",
+      "github_raw_url": "https://raw.githubusercontent.com/Jaferdecodesai/ethikcorp-businessos-demo-data/main/public-kb/pages/operational-excellence-for-smes.md"
+    },
+    {
+      "path": "public-kb/pages/process-optimization-how-smart-businesses-boost-efficiency-cut-costs-without-compromising-quality.md",
+      "name": "process-optimization-how-smart-businesses-boost-efficiency-cut-costs-without-compromising-quality.md",
+      "drive_id": "1HvXxgTzCQrq-2Ssqi2KDO7qe6ThngK86",
+      "origin": "real",
+      "category": "public-kb",
+      "web_view_url": "https://drive.google.com/file/d/1HvXxgTzCQrq-2Ssqi2KDO7qe6ThngK86/view",
+      "download_url": "https://drive.google.com/uc?export=download&id=1HvXxgTzCQrq-2Ssqi2KDO7qe6ThngK86",
+      "github_raw_url": "https://raw.githubusercontent.com/Jaferdecodesai/ethikcorp-businessos-demo-data/main/public-kb/pages/process-optimization-how-smart-businesses-boost-efficiency-cut-costs-without-compromising-quality.md"
+    },
+    {
+      "path": "public-kb/pages/the-fundamentals-of-business-transformation-what-every-leader-must-know.md",
+      "name": "the-fundamentals-of-business-transformation-what-every-leader-must-know.md",
+      "drive_id": "1bWmyh9WwKc2ADfrQJT8DxgEyKlpemKV0",
+      "origin": "real",
+      "category": "public-kb",
+      "web_view_url": "https://drive.google.com/file/d/1bWmyh9WwKc2ADfrQJT8DxgEyKlpemKV0/view",
+      "download_url": "https://drive.google.com/uc?export=download&id=1bWmyh9WwKc2ADfrQJT8DxgEyKlpemKV0",
+      "github_raw_url": "https://raw.githubusercontent.com/Jaferdecodesai/ethikcorp-businessos-demo-data/main/public-kb/pages/the-fundamentals-of-business-transformation-what-every-leader-must-know.md"
+    },
+    {
+      "path": "public-kb/pages/the-psychology-of-change-how-to-lead-a-successful-business-transformation.md",
+      "name": "the-psychology-of-change-how-to-lead-a-successful-business-transformation.md",
+      "drive_id": "1UYWdC-J-QyhZLUqfAg7O7KL3p9ITqYe4",
+      "origin": "real",
+      "category": "public-kb",
+      "web_view_url": "https://drive.google.com/file/d/1UYWdC-J-QyhZLUqfAg7O7KL3p9ITqYe4/view",
+      "download_url": "https://drive.google.com/uc?export=download&id=1UYWdC-J-QyhZLUqfAg7O7KL3p9ITqYe4",
+      "github_raw_url": "https://raw.githubusercontent.com/Jaferdecodesai/ethikcorp-businessos-demo-data/main/public-kb/pages/the-psychology-of-change-how-to-lead-a-successful-business-transformation.md"
+    },
+    {
+      "path": "public-kb/pages/the-role-of-leadership-in-creating-a-learning-culture.md",
+      "name": "the-role-of-leadership-in-creating-a-learning-culture.md",
+      "drive_id": "1JyP2KTU8Has9A59fvaoRGFE6tl1fN2lb",
+      "origin": "real",
+      "category": "public-kb",
+      "web_view_url": "https://drive.google.com/file/d/1JyP2KTU8Has9A59fvaoRGFE6tl1fN2lb/view",
+      "download_url": "https://drive.google.com/uc?export=download&id=1JyP2KTU8Has9A59fvaoRGFE6tl1fN2lb",
+      "github_raw_url": "https://raw.githubusercontent.com/Jaferdecodesai/ethikcorp-businessos-demo-data/main/public-kb/pages/the-role-of-leadership-in-creating-a-learning-culture.md"
+    },
+    {
+      "path": "public-kb/pages/the-role-of-leadership-in-driving-business-transformation-key-lessons.md",
+      "name": "the-role-of-leadership-in-driving-business-transformation-key-lessons.md",
+      "drive_id": "1l0QvAGcqkw9MCnLSKt9U0qN1waCGbWf3",
+      "origin": "real",
+      "category": "public-kb",
+      "web_view_url": "https://drive.google.com/file/d/1l0QvAGcqkw9MCnLSKt9U0qN1waCGbWf3/view",
+      "download_url": "https://drive.google.com/uc?export=download&id=1l0QvAGcqkw9MCnLSKt9U0qN1waCGbWf3",
+      "github_raw_url": "https://raw.githubusercontent.com/Jaferdecodesai/ethikcorp-businessos-demo-data/main/public-kb/pages/the-role-of-leadership-in-driving-business-transformation-key-lessons.md"
+    },
+    {
+      "path": "public-kb/pages/why-business-transformation-projects-fail.md",
+      "name": "why-business-transformation-projects-fail.md",
+      "drive_id": "14uTgUTNoh2o2yF0WKnkg_80Npz7xZrzC",
+      "origin": "real",
+      "category": "public-kb",
+      "web_view_url": "https://drive.google.com/file/d/14uTgUTNoh2o2yF0WKnkg_80Npz7xZrzC/view",
+      "download_url": "https://drive.google.com/uc?export=download&id=14uTgUTNoh2o2yF0WKnkg_80Npz7xZrzC",
+      "github_raw_url": "https://raw.githubusercontent.com/Jaferdecodesai/ethikcorp-businessos-demo-data/main/public-kb/pages/why-business-transformation-projects-fail.md"
+    },
+    {
+      "path": "public-kb/pages/why-employee-buy-in-matters-in-business-transformation.md",
+      "name": "why-employee-buy-in-matters-in-business-transformation.md",
+      "drive_id": "1XUMQAfrv_tYNL5yZpH4WVnJSPI2x6boy",
+      "origin": "real",
+      "category": "public-kb",
+      "web_view_url": "https://drive.google.com/file/d/1XUMQAfrv_tYNL5yZpH4WVnJSPI2x6boy/view",
+      "download_url": "https://drive.google.com/uc?export=download&id=1XUMQAfrv_tYNL5yZpH4WVnJSPI2x6boy",
+      "github_raw_url": "https://raw.githubusercontent.com/Jaferdecodesai/ethikcorp-businessos-demo-data/main/public-kb/pages/why-employee-buy-in-matters-in-business-transformation.md"
+    },
+    {
+      "path": "public-kb/pages/why-learning-and-development-is-a-competitive-advantage.md",
+      "name": "why-learning-and-development-is-a-competitive-advantage.md",
+      "drive_id": "1Tr6cwRVmZpHPB4eVv9uMXmczAUTBdUO9",
+      "origin": "real",
+      "category": "public-kb",
+      "web_view_url": "https://drive.google.com/file/d/1Tr6cwRVmZpHPB4eVv9uMXmczAUTBdUO9/view",
+      "download_url": "https://drive.google.com/uc?export=download&id=1Tr6cwRVmZpHPB4eVv9uMXmczAUTBdUO9",
+      "github_raw_url": "https://raw.githubusercontent.com/Jaferdecodesai/ethikcorp-businessos-demo-data/main/public-kb/pages/why-learning-and-development-is-a-competitive-advantage.md"
+    },
+    {
+      "path": "public-kb/pages/why-most-corporate-training-programs-fail.md",
+      "name": "why-most-corporate-training-programs-fail.md",
+      "drive_id": "1tzaxer6lLpfj_7l7k7mYvg3A3vZyK8qh",
+      "origin": "real",
+      "category": "public-kb",
+      "web_view_url": "https://drive.google.com/file/d/1tzaxer6lLpfj_7l7k7mYvg3A3vZyK8qh/view",
+      "download_url": "https://drive.google.com/uc?export=download&id=1tzaxer6lLpfj_7l7k7mYvg3A3vZyK8qh",
+      "github_raw_url": "https://raw.githubusercontent.com/Jaferdecodesai/ethikcorp-businessos-demo-data/main/public-kb/pages/why-most-corporate-training-programs-fail.md"
+    }
+  ]
+}

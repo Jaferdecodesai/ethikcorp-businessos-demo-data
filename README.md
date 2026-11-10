@@ -44,6 +44,6 @@ Raw HTML dumps and the crawler script were also left out; the cleaned Markdown i
 ## How the portal should read this
 
 - **GitHub:** raw file URLs of the form `https://raw.githubusercontent.com/Jaferdecodesai/ethikcorp-businessos-demo-data/main/<path>`.
-- **Google Drive:** a folder named “Ethikcorp BusinessOS Demo Data” holds the same files. File IDs and direct-download URL forms are listed in `drive-manifest.json` once that folder has been created. If a file cannot be fetched without signing in, use the GitHub raw URL; the connector used to create the folder cannot grant “anyone with the link” access by itself.
+- **Google Drive:** a folder named “Ethikcorp BusinessOS Demo Data” holds the same files. File IDs and direct-download URL forms (`https://drive.google.com/uc?export=download&id=<ID>`) are listed in `drive-manifest.json`. The folder has **not** been shared as “anyone with the link can view”, because the Drive connector cannot make that grant. Until the folder is shared that way in the Google Drive UI, unauthenticated downloads will fail; use the GitHub raw URLs instead.
 
 Suggested ingest order: `public-kb/ethikcorp-kb.md` and `public-kb/pages/` for company knowledge; the four CSV files for dashboard charts; `workflows/` for department Businessbot automation analysis.
